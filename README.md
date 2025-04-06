@@ -9,6 +9,7 @@ High-Speed Transfer: Optimized for fast file transfers, taking advantage of your
 
 
 Note:-
+
 Use 5GHz Network Band for High Speed Transfer. 
 
 Turn on the hotspot of your mobile phone and connect to your PC, otherwise QR will show your system IP and it won't work.
